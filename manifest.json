@@ -1,0 +1,17 @@
+{
+  "id": "org.togi.openani",
+  "version": "1.0.0",
+  "name": "OpenAni (openani.me) addon",
+  "description": "Search OpenAni (openani.me) for anime and play episodes",
+  "resources": ["catalog","meta","stream"],
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "openani-search",
+      "name": "OpenAni Search"
+    }
+  ],
+  "icon": "https://openani.me/wp-content/uploads/2023/01/cropped-openani-logo-192x192.png",
+  "background": "https://openani.me/wp-content/uploads/2023/01/cropped-openani-logo-1024x512.png"
+}
